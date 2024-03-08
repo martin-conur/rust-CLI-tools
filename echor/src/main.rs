@@ -28,9 +28,10 @@ fn main() {
         .collect();
 
     let text = text_vec.join(" ");
-    
+
     let omit_newline: bool = *matches.get_one("omit_newline").unwrap();
 
-    println!("{:#?}, {:#?}", text, omit_newline);
+    print!("{}{}", text, if omit_newline {""} else {"\n"});
     // println!("{:#?}", matches);
+
 }
