@@ -5,3 +5,5 @@
 * candle_basic: Beginner app for torch Tensor like processing with HuggingFace models.
 
 * gator: A cat like CLI tool.
+
+* nolBERTo: BERT CLI app for text embedding and similarity score computarion. Based on Candle (HuggingFace).
