@@ -4,4 +4,4 @@
 
 * gator: A cat like CLI tool.
 
-* nolBERTo: BERT CLI app for text embedding and similarity score computarion. Based on Candle (HuggingFace).
+* [nolBERTo](https://github.com/martin-conur/rust-CLI-tools/tree/main/nolBERTo): BERT CLI app for text embedding and similarity score computarion. Based on Candle (HuggingFace).
